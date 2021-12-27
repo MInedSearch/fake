@@ -1,0 +1,36 @@
+body{
+	background-image: url("background.png");
+	 background-size: cover;
+}
+.hop{
+	background-color: white;
+	height: 400px;
+	width: 60%;
+	margin-top: 150px;
+	
+
+}
+.hop:hover{
+	box-shadow: 0.2px 0.2px 2px 2px #9c9c9c;
+}
+.logo{
+	height: 80px;
+	text-align: left;
+}
+h2{
+	font-size: 100%;
+}
+h1{
+	font-size: 160%;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+button{
+	background-color: #4287f5;
+	border:none;
+	height: 40px;
+	width: 500px;
+	margin-top: 20px;
+}
